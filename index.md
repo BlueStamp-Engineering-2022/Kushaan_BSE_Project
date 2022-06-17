@@ -22,4 +22,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Starter Project
 
-[![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/L3kJnsrzHWM "Starter Project"){:target="_blank" rel="noopener"}
+[![Starter Project](https://i3.ytimg.com/vi/L3kJnsrzHWM/sddefault.jpg)](https://youtu.be/L3kJnsrzHWM "Starter Project"){:target="_blank" rel="noopener"}
