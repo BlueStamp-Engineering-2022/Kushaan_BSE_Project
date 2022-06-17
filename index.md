@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kushaan Choudhury | Mission San Jose Highs | Mechanical Engineering | Incoming Junior
+| Kushaan Choudhury | Mission San Jose High | Mechanical Engineering | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
