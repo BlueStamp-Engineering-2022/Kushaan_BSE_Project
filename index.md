@@ -27,4 +27,4 @@ My first milestone was setting up a smaller scale version of my circuit. My syst
 
 [![Starter Project](https://i3.ytimg.com/vi/L3kJnsrzHWM/sddefault.jpg)](https://youtu.be/L3kJnsrzHWM "Starter Project")
 
-My starter project was the TV-Be-Gone. It was really fun learning how to solder. I learned that flux os really hard to get off a board.
+My starter project was the TV-Be-Gone. It was really fun learning how to solder. I learned that flux is really hard to get off a board.
