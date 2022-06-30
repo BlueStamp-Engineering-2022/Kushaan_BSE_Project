@@ -21,7 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was setting up a smaller scale version of my circuit. My system had 1 battery pack and two LEDs. These LEDs signified the the left and right turn signals of the jacket. The circuit uses an arduio lilypad which is and arduino made specifically for wearable technology.
 
-[![First Milestone](https://i3.ytimg.com/vi/hNBeZCNgH34/maxresdefault.jpg)](https://youtu.be/DfLsUbfJylQ "First Milestone")
+[![First Milestone](https://i3.ytimg.com/vi/hNBeZCNgH34/maxresdefault.jpg)](https://youtu.be/hNBeZCNgH34 "First Milestone")
 
 # Starter Project 
 
