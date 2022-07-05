@@ -7,6 +7,9 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVh_9toL4bxjAlIQNuzW4AF33ebtkGlI6wwu_0smAff_UrdWTx-54vYb8K1JBvo79sse6xuFaqD32_QKkvf9V86I9o8W-Ub7DDNOLIShDp3SSrcCV96ngD8bclMtc8wH9nMHJKbWSIsAUHdkWReWmc=s1602-no?authuser=0)
 
+
+![Headstone Image](https://imgur.com/a/A7UpRLx)
+
 # Circuit Diagram
 ![Circuit Diagram](https://imgur.com/a/A7UpRLx)
  
