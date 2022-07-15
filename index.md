@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kushaan Choudhury | Mission San Jose High | Mechanical Engineering | Incoming Junior
+| Kushaan | Mission San Jose High | Mechanical Engineering | Incoming Junior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVh_9toL4bxjAlIQNuzW4AF33ebtkGlI6wwu_0smAff_UrdWTx-54vYb8K1JBvo79sse6xuFaqD32_QKkvf9V86I9o8W-Ub7DDNOLIShDp3SSrcCV96ngD8bclMtc8wH9nMHJKbWSIsAUHdkWReWmc=s1602-no?authuser=0)
 
